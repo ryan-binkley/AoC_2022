@@ -1,0 +1,15 @@
+C:\Users\cools\Desktop\C#_Stuff\AoC\Day1\puzzle1\bin\Debug\net7.0\puzzle1.exe
+C:\Users\cools\Desktop\C#_Stuff\AoC\Day1\puzzle1\bin\Debug\net7.0\puzzle1.deps.json
+C:\Users\cools\Desktop\C#_Stuff\AoC\Day1\puzzle1\bin\Debug\net7.0\puzzle1.runtimeconfig.json
+C:\Users\cools\Desktop\C#_Stuff\AoC\Day1\puzzle1\bin\Debug\net7.0\puzzle1.dll
+C:\Users\cools\Desktop\C#_Stuff\AoC\Day1\puzzle1\bin\Debug\net7.0\puzzle1.pdb
+C:\Users\cools\Desktop\C#_Stuff\AoC\Day1\puzzle1\obj\Debug\net7.0\puzzle1.csproj.AssemblyReference.cache
+C:\Users\cools\Desktop\C#_Stuff\AoC\Day1\puzzle1\obj\Debug\net7.0\puzzle1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cools\Desktop\C#_Stuff\AoC\Day1\puzzle1\obj\Debug\net7.0\puzzle1.AssemblyInfoInputs.cache
+C:\Users\cools\Desktop\C#_Stuff\AoC\Day1\puzzle1\obj\Debug\net7.0\puzzle1.AssemblyInfo.cs
+C:\Users\cools\Desktop\C#_Stuff\AoC\Day1\puzzle1\obj\Debug\net7.0\puzzle1.csproj.CoreCompileInputs.cache
+C:\Users\cools\Desktop\C#_Stuff\AoC\Day1\puzzle1\obj\Debug\net7.0\puzzle1.dll
+C:\Users\cools\Desktop\C#_Stuff\AoC\Day1\puzzle1\obj\Debug\net7.0\refint\puzzle1.dll
+C:\Users\cools\Desktop\C#_Stuff\AoC\Day1\puzzle1\obj\Debug\net7.0\puzzle1.pdb
+C:\Users\cools\Desktop\C#_Stuff\AoC\Day1\puzzle1\obj\Debug\net7.0\puzzle1.genruntimeconfig.cache
+C:\Users\cools\Desktop\C#_Stuff\AoC\Day1\puzzle1\obj\Debug\net7.0\ref\puzzle1.dll
