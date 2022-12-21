@@ -29,7 +29,7 @@ namespace puzzle1
 
             Array.Sort(arrayOfTotals);
 
-            Console.WriteLine(arrayOfTotals[arrayOfTotals.Length - 1]);
+            Console.WriteLine((arrayOfTotals[arrayOfTotals.Length - 1]) + (arrayOfTotals[arrayOfTotals.Length - 2]) + (arrayOfTotals[arrayOfTotals.Length - 3]));
         }
     }
 }
